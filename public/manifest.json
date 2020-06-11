@@ -1,6 +1,6 @@
 {
-  "short_name": "Ben Maps",
-  "name": "Ben Maps - web maps that don't track you.",
+  "short_name": "Maps",
+  "name": "Web maps that don't track you.",
   "icons": [
     {
       "src": "/favicon.png",
